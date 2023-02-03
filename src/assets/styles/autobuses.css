@@ -1,0 +1,64 @@
+#formulario3{
+    align-items: center;
+    border: 2px solid  #080710;
+    position: absolute;
+    padding: 30px 45px;
+    top: 5%;
+    left: 40%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{
+    /* border: 2px solid blue; */
+    gap: 0px;
+}
+label{
+    display: block;
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 500;
+}
+button{
+    margin-top: 40px;
+    width: 100%;
+    background-color: #ffffff;
+    color: #080710;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+button:hover{
+    margin-top: 40px;
+    width: 100%;
+    background-color: #e20d0d;
+    color: #ffffff;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+
+
+
+#label2{
+    display: block;
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+}
+
+#mack2{
+    border-radius: 50%;
+    width: 150px;
+    align-items: center;
+    padding: 0px 37px;
+}
